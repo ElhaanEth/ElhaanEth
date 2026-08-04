@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ElhaanEth">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=800&color=00BFFF&center=true&vCenter=true&width=820&height=64&lines=%3E+oops...+sudo+rm+-rf+--no-preserve-root+%2F;whoami+%3E%3E+elhaan.daud;%3E+building+RL+environments+%40+Ethara+AI;%3E+reward+is+all+you+need%2C+everything+else+is+a+hyperparameter;%3E+benchmarking+frontier+models+until+they+touch+grass" alt="terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=800&color=00BFFF&center=true&vCenter=true&width=820&height=64&lines=%3E+sudo+rm+-rf+--no-preserve-root+%2F;Oops...;whoami+%3E%3E+elhaan.daud;%3E+building+RL+environments+%40+Ethara+AI;%3E+reward+is+all+you+need%2C+everything+else+is+a+hyperparameter;%3E+benchmarking+frontier+models+until+they+touch+grass" alt="terminal" />
 </a>
 
 <h3><code>elhaan.daud</code> <sub><sub>::</sub></sub> <code>RL Researcher @ Ethara AI</code> <sub><sub>::</sub></sub> <code>Gurgaon, IN</code></h3>
@@ -74,7 +74,7 @@ $ tail -3 ~/.bash_history
   no benchmark survives contact with a model that wants to pass it
 ```
 
-Reinforcement learning is the first thing I reach for, so most days start with building an environment: the state, the action space, the reward, the failure modes I have not thought of yet, and then a training run that finds every one of them by lunch. I build the worlds and then make agents suffer in them until they get good, which sounds cruel until you realise the alternative is a model that memorised the answer key, and the honest version of this job is admitting that every reward function is a bug report waiting to be filed, because agents do not do what you meant, they do what you paid for. Benchmarking is the other half of the loop: once something trains, it goes into the rig, gets strapped down and stress-tested until the seam splits, and I write down exactly where, since a model that tops a leaderboard and a model that behaves under pressure are two very different animals and only one of them ships. Envs, rewards, training, evals, repeat, one boulder at a time.
+Reinforcement learning is the first thing I reach for, so most days start with building an environment: the state, the action space, the reward, the failure modes I have not thought of yet, and then a training run that finds every one of them by lunch. I build the worlds and then make agents suffer in them until they get good, which sounds cruel until you realise the alternative is a model that memorised the answer key, and the honest version of this job is admitting that every reward function is a bug report waiting to be filed, because agents do not do what you meant, they do what you paid for. Benchmarking is the other half of the loop: once something trains, it goes into the rig, gets strapped down and stress-tested until the seam splits, and I write down exactly where, since a model that tops a leaderboard and a model that behaves under pressure are two very different animals and only one of them ships. Envs, rewards, training, evals, repeat.
 
 ---
 
@@ -147,7 +147,5 @@ Raise an [issue](https://github.com/ElhaanEth/ElhaanEth/issues), and include the
 <br />
 
 <code>$ ./push.sh --forever</code>
-
-<sub><b>one boulder at a time.</b></sub>
 
 </div>
