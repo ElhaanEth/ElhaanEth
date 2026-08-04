@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ElhaanEth">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=800&color=00FF66&center=true&vCenter=true&width=820&height=64&lines=sudo+rm+-rf+--no-preserve-root+%2F;whoami+%3E%3E+elhaan.daud;%3E+building+RL+environments+%40+Ethara+AI;%3E+reward+is+all+you+need%2C+everything+else+is+a+hyperparameter;%3E+then+benchmarking+frontier+models+until+they+touch+grass" alt="terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=800&color=00FF66&center=true&vCenter=true&width=820&height=64&lines=sudo+rm+-rf+--no-preserve-root+%2F;whoami+%3E%3E+elhaan.daud;%3E+building+RL+environments+%40+Ethara+AI;%3E+reward+is+all+you+need%2C+everything+else+is+a+hyperparameter;%3E+benchmarking+frontier+models+until+they+touch+grass" alt="terminal" />
 </a>
 
 <h3><code>elhaan.daud</code> <sub><sub>::</sub></sub> <code>RL Researcher @ Ethara AI</code> <sub><sub>::</sub></sub> <code>Gurgaon, IN</code></h3>
