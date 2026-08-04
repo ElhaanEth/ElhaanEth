@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ElhaanEth">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=800&color=00FF66&center=true&vCenter=true&width=820&height=64&lines=sudo+rm+-rf+--no-preserve-root+%2F;whoami+%3E%3E+elhaan.daud;%3E+building+RL+environments+%40+Ethara+AI;%3E+reward+is+all+you+need%2C+everything+else+is+a+hyperparameter;%3E+benchmarking+frontier+models+until+they+touch+grass" alt="terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=800&color=00BFFF&center=true&vCenter=true&width=820&height=64&lines=%3E+oops...+sudo+rm+-rf+--no-preserve-root+%2F;whoami+%3E%3E+elhaan.daud;%3E+building+RL+environments+%40+Ethara+AI;%3E+reward+is+all+you+need%2C+everything+else+is+a+hyperparameter;%3E+benchmarking+frontier+models+until+they+touch+grass" alt="terminal" />
 </a>
 
 <h3><code>elhaan.daud</code> <sub><sub>::</sub></sub> <code>RL Researcher @ Ethara AI</code> <sub><sub>::</sub></sub> <code>Gurgaon, IN</code></h3>
@@ -9,24 +9,24 @@
 <p><b><code>&gt;_ Professionally gaslighting LLMs into revealing their true capabilities.</code></b></p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ElhaanEth&style=flat-square&color=00ff66&label=visitors" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=ElhaanEth&style=flat-square&color=00BFFF&label=visitors" alt="visitors" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-0A0A0A?style=for-the-badge&logo=pytorch&logoColor=00FF66" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Gymnasium-0A0A0A?style=for-the-badge&logo=openaigym&logoColor=00FF66" alt="Gymnasium" />
-  <img src="https://img.shields.io/badge/JAX-0A0A0A?style=for-the-badge&logo=google&logoColor=FFB000" alt="JAX" />
+  <img src="https://img.shields.io/badge/PyTorch-0A0A0A?style=for-the-badge&logo=pytorch&logoColor=00BFFF" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Gymnasium-0A0A0A?style=for-the-badge&logo=openaigym&logoColor=00BFFF" alt="Gymnasium" />
+  <img src="https://img.shields.io/badge/JAX-0A0A0A?style=for-the-badge&logo=google&logoColor=58A6FF" alt="JAX" />
 </p>
 
 <p>
   <a href="https://www.linkedin.com/in/elhaan-daud-40baa2256/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF66" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00BFFF" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/ElhaanDaud">
-    <img src="https://img.shields.io/badge/@ElhaanDaud-0A0A0A?style=for-the-badge&logo=x&logoColor=00FF66" alt="X" />
+    <img src="https://img.shields.io/badge/@ElhaanDaud-0A0A0A?style=for-the-badge&logo=x&logoColor=00BFFF" alt="X" />
   </a>
   <a href="https://github.com/ElhaanEth">
-    <img src="https://img.shields.io/badge/root@ethara-0A0A0A?style=for-the-badge&logo=gnubash&logoColor=FFB000" alt="shell" />
+    <img src="https://img.shields.io/badge/root@ethara-0A0A0A?style=for-the-badge&logo=gnubash&logoColor=58A6FF" alt="shell" />
   </a>
 </p>
 
